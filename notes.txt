@@ -1,0 +1,14 @@
+- number data type
+  number.js
+
+- boolean data type
+  boolean.js
+
+- string data type
+  string.js
+
+- variable
+  variable.js
+
+- arithmetic operator
+  arithmetic_operator.js    
