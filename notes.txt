@@ -125,6 +125,47 @@
   function_in_function.js
 
 - global scope
-  global_scope.js      
+  global_scope.js
+
+- local scope
+  local_scope.js
+
+- nested function scope
+  nested_function_scope.js
+
+- recursive function
+  recursive_function.js
+
+- function generator
+  function_generator.js
+
+- arrow function
+  arrow_function.js
+
+- closure
+  closure.js
+
+- object method
+  object_method.js
+
+- this keyword
+  this_keyword.js
+
+- arrow function in object method
+  arrow_function_obj_method.js
+
+- getter setter
+  getter_setter.js
+
+- destructuring
+  destructuring.js
+
+- strict mode
+  strict_mode.js
+
+- debugger
+  debugger.js
+
+done                                
 
         
