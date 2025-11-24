@@ -11,4 +11,120 @@
   variable.js
 
 - arithmetic operator
-  arithmetic_operator.js    
+  arithmetic_operator.js
+
+- augmented assignment operator
+  augmented_assignment_operator.js
+
+- unary operator
+  unary_operator.js
+
+- comparison operator
+  comparison_operator.js  
+
+- logical operator
+  logical_operatro.js
+
+- string template
+  string_template.js
+
+- convert string to number
+  string_to_number.js
+
+- not a number (NaN)
+  nan.js
+
+- array data type
+  array.js
+
+- object data type
+  object.js
+
+- if expression
+  if.js
+
+- if else
+  if_else.js
+
+- else if
+  else_if.js
+
+- alert
+  alert.html
+
+- prompt
+  prompt.html
+
+- confirm
+  confirm.html
+
+- undefined
+  undefined.js
+
+- null
+  null.js
+
+- switch statement
+  switch.js
+
+- typeof operator
+  typeof.js
+
+- in operator
+  in_operator.js
+
+- ternary operator
+  ternary_operator.js
+
+- nullish coalescing operator
+  nullish_coalesing.js
+
+- optional chaining
+  optional_chaining.js
+
+- falsy and truthy
+  falsy_truthy.js
+
+- logical operator in non boolean
+  non_boolean_logical_operator.js
+
+- for loop 
+  for_loop.js
+
+- while loop
+  while_loop.js
+
+- do while loop
+  do_while_loop.js
+
+- break
+  break.js
+
+- continue
+  continue.js
+
+- for in
+  for_in.js
+
+- for of
+  for_of.js
+
+- function
+  function.js
+
+- spread syntax
+  spread_syntax.js
+
+- function as value
+  function_as_value.js
+
+- anonymous function
+  anonymous_function.js
+
+- function in function
+  function_in_function.js
+
+- global scope
+  global_scope.js      
+
+        
